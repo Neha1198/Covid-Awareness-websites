@@ -6,10 +6,10 @@ In short, it is the go-to website for anyone who wants information related to co
 
 Created By:
 
-### Tejas Tapas -
-Github Id: Tejas1510
+### Neha kumari -
+Github Id:https://github.com/Neha1198
 
 ### Rishabh Rathi - 
-Website: [Rishabh Rathi](http://www.rishabhrathi.co/)\
-Github Id: [rishabhrathi22](https://github.com/rishabhrathi22)\
-LinkedIn: [rishabhrathi22](https://www.linkedin.com/in/rishabhrathi22/)
+Website: [Rishabh Rathi](http://www.nehakumari.co/)\
+Github Id: [rishabhrathi22](https://https://github.com/Neha1198)\
+LinkedIn: [rishabhrathi22](https://https://www.linkedin.com/in/neha-kumari-311576223//)
